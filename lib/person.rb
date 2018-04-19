@@ -7,6 +7,3 @@ def walk
 end
 end
 
-Steven=Person.new
-Steven.talk
-Steven.walk
