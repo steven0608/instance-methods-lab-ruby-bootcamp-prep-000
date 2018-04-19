@@ -6,3 +6,7 @@ def walk
   puts "The Person is walking"
 end
 end
+
+Steven=Person.new
+Steven.talk
+Steven.walk
